@@ -1,0 +1,38 @@
+body{
+	background: #eee;
+}
+
+.login{
+	min-height:400px;
+	background: white;
+	outline: 3px white solid;
+}
+
+.slides{
+	outline: 3px white solid;
+}
+
+/*media screen,projection*/
+.slider .indicators {
+    text-align: center;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0;
+    display: none;
+}
+
+.card{
+	
+}
+
+.rounded {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    
+}
+
+.collapsible{
+    border: 3px white solid;
+}
